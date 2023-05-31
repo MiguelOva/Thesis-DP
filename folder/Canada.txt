@@ -1,90 +1,56 @@
-# Comprehensive Report: Market Entry Strategy for Heated Tobacco Devices in the US
-
-## Introduction
-
-Entering the US market as a seller of a heated tobacco device necessitates a deep understanding of a multifaceted regulatory landscape. This landscape encompasses federal and state regulations, FDA approval processes, tax legislation, age verification protocols, and marketing restrictions. This report provides a detailed overview of these elements and offers resources for further exploration.
-
-## FDA Approval
-
-The U.S. Food and Drug Administration (FDA) is the primary regulatory body overseeing the sale of tobacco products, including heated tobacco devices. The FDA's Center for Tobacco Products implements the Family Smoking Prevention and Tobacco Control Act, which empowers the FDA to regulate the manufacture, distribution, and marketing of tobacco products. 
-
-Before a heated tobacco device can be sold in the US, it must receive FDA approval. The approval process involves rigorous testing and review to ensure the product meets safety and efficacy standards. For more information on the FDA approval process, visit the [FDA's website](https://www.fda.gov/tobacco-products/rules-regulations-and-guidance/family-smoking-prevention-and-tobacco-control-act-overview).
-
-## Tax Legislation
-
-Tax legislation for tobacco products is a complex issue that varies significantly from state to state. The Tax Foundation provides a detailed map and table of the excise tax rates on cigarettes in each state as of 2020. While this information provides a general overview, the specific tax legislation for heated tobacco devices may differ and can be subject to change. For the most accurate information, it is recommended to consult with a tax expert or legal professional. For an overview of state excise tax rates, visit the [Tax Foundation's website](https://taxfoundation.org/state-cigarette-tax-rates-2020/).
-
-## Age Verification
-
-The federal minimum age for the sale of tobacco products in the US is 21 years, as per the Tobacco 21 law. However, states may have additional restrictions on youth access to tobacco products, including stricter age verification protocols. The Public Health Law Center provides a comprehensive review of these regulations in all 50 states. For more information on age verification laws and restrictions, visit the [Public Health Law Center's website](https://www.publichealthlawcenter.org/resources/us-e-cigarette-regulations-50-state-review/states-laws-restricting-youth-access-e-cigarettes).
-
-## Marketing Restrictions
-
-Marketing of tobacco products in the US is subject to both federal and state laws. These regulations cover a wide range of areas, including advertising, product packaging, and sponsorship of events. Non-compliance with these regulations can result in significant penalties. For more information on marketing regulations, visit the [FDA's website](https://www.fda.gov/tobacco-products/advertising-and-promotion) and the [Public Health Law Center's website](https://www.publichealthlawcenter.org/resources/us-e-cigarette-regulations-50-state-review).
-
-## Further Research
-
-For a more comprehensive analysis of the regulations affecting the sale of heated tobacco devices in the US, the following resources may be useful:
-
-1. [National Conference of State Legislatures](https://www.ncsl.org/research/health/alternative-nicotine-products-e-cigarettes.aspx): This resource provides information on state laws related to e-cigarettes and other alternative nicotine products.
-
-2. [Tobacco Control Legal Consortium](http://publichealthlawcenter.org/programs/tobacco-control-legal-consortium): This consortium offers legal technical assistance, including resources and policy development tools, to public health professionals and advocates working on tobacco control.
-
-3. [Campaign for Tobacco-Free Kids](https://www.tobaccofreekids.org/): This organization provides information and advocacy resources on tobacco control policies, including state-by-state information.
-
-In conclusion, entering the US
-
-## FDA Approval for Heated Tobacco Devices
-
-The FDA has authorized the marketing of new tobacco products manufactured by Philip Morris Products S.A. for the IQOS “Tobacco Heating System”. This electronic device heats tobacco-filled sticks wrapped in paper to generate a nicotine-containing aerosol. The FDA has placed stringent marketing restrictions on the products in an effort to prevent youth access and exposure.
-
-The authorization process involved a rigorous science-based review through the premarket tobacco product application (PMTA) pathway. The agency determined that authorizing these products for the U.S. market is appropriate for the protection of the public health because, among several key considerations, the products produce fewer or lower levels of some toxins than combustible cigarettes. The products authorized for sale include the IQOS device, Marlboro Heatsticks, Marlboro Smooth Menthol Heatsticks and Marlboro Fresh Menthol Heatsticks. 
-
-It's important to note that while today’s action permits the tobacco products to be sold in the U.S., it does not mean these products are safe or “FDA approved.” All tobacco products are potentially harmful and addictive and those who do not use tobacco products should continue not to. 
-
-The FDA will continue to evaluate new available data regarding the products through postmarketing records and reports required in the marketing order. The company is required to report regularly to the FDA with information regarding the products on the market, including, but not limited to, ongoing and completed consumer research studies, advertising, marketing plans, sales data, information on current and new users, manufacturing changes and adverse experiences. The FDA may withdraw a marketing order if it, among other reasons, determines that the continued marketing of a product is no longer appropriate for the protection of the public health, such as if there is an uptake of the product by youth.
-
-For more information, visit the [FDA's press release](https://www.fda.gov/news-events/press-announcements/fda-permits-sale-iqos-tobacco-heating-system-through-premarket-tobacco-product-application-pathway).
-
-## State-Specific Regulations
-
-The regulatory landscape for heated tobacco devices varies significantly from state to state. For instance, in California, the sale of flavored tobacco products is banned, while in Virginia, there are no such restrictions. 
-
-In terms of taxation, states like New York and Connecticut have high tax rates on tobacco products, while states like Missouri and Virginia have relatively low rates. It's important to note that these rates can change, and it's recommended to consult with a tax expert or legal professional for the most accurate information.
-
-For more detailed information on state-specific regulations, the following resources may be useful:
-
-1. [National Conference of State Legislatures](https://www.ncsl.org/research/health/alternative-nicotine-products-e-cigarettes.aspx): Provides information on state laws related to e-cigarettes and other alternative nicotine products.
-
-2. [Tobacco Control Legal Consortium](http://publichealthlawcenter.org/programs/tobacco-control-legal-consortium): Offers legal technical assistance, including resources and policy development tools, to public health professionals and advocates working on tobacco control.
-
-3. [Campaign for Tobacco-Free Kids](https://www.tobaccofreekids.org/): Provides information and advocacy resources on tobacco control policies, including state-by-state information.
-
-## Conclusion
-
-Entering the US market as a seller of a heated tobacco device involves navigating a complex regulatory landscape. It is recommended to consult with legal professionals and industry experts to ensure compliance with all relevant regulations. The FDA's approval of the IQOS system is a significant development, but it's important to stay updated on regulatory changes at both the federal and state level.
-
-
-
-
-Sure, here are all the useful links that were used for the analysis and search:
-
-1. [FDA - Family Smoking Prevention and Tobacco Control Act](https://www.fda.gov/tobacco-products/rules-regulations-and-guidance/family-smoking-prevention-and-tobacco-control-act-overview)
-
-2. [Tax Foundation - State Excise Tax Rates on Cigarettes](https://taxfoundation.org/state-cigarette-tax-rates-2020/)
-
-3. [Public Health Law Center - U.S. E-Cigarette Regulations - 50 State Review](https://www.publichealthlawcenter.org/resources/us-e-cigarette-regulations-50-state-review)
-
-4. [National Conference of State Legislatures - Alternative Nicotine Products](https://www.ncsl.org/research/health/alternative-nicotine-products-e-cigarettes.aspx)
-
-5. [FDA - Marketing of IQOS Tobacco Heating System](https://www.fda.gov/news-events/press-announcements/fda-permits-sale-iqos-tobacco-heating-system-through-premarket-tobacco-product-application-pathway)
-
-6. [FDA - Authorization of IQOS Tobacco Heating System](https://www.fda.gov/tobacco-products/ctp-newsroom/fda-authorizes-marketing-iqos-tobacco-heating-system)
-
-7. [FDA - Authorization of IQOS with Reduced Exposure Information](https://www.fda.gov/tobacco-products/ctp-newsroom/fda-authorizes-marketing-iqos-tobacco-heating-system-reduced-exposure-information)
-
-8. [Tobacco Control Legal Consortium](http://publichealthlawcenter.org/programs/tobacco-control-legal-consortium)
-
-9. [Campaign for Tobacco-Free Kids](https://www.tobaccofreekids.org/)
-
-These resources provide a comprehensive overview of the regulatory landscape for heated tobacco devices in the US. They cover a wide range of topics, including FDA approval processes, tax legislation, age verification protocols, and marketing restrictions.
+State;Timezone;State Description;Major Cities;Tax Legislation
+Alabama;Central;"Alabama is a state located in the southeastern region of the United States, known for its rich history, southern hospitality, and diverse landscapes.";"Birmingham, Montgomery, Mobile";[Alabama Taxing Legislation](https://revenue.alabama.gov/)
+Alaska;Alaska;"Alaska is a state located in the northwestern region of the United States, known for its breathtaking natural beauty, vast wilderness, and unique wildlife.";"Anchorage, Fairbanks, Juneau";[Alaska Taxing Legislation](https://tax.alaska.gov/)
+Arizona;Mountain;"Arizona is a state located in the southwestern region of the United States, known for its stunning desert landscapes, vibrant cities, and diverse cultural heritage.";"Phoenix, Tucson, Mesa";[Arizona Taxing Legislation](https://azdor.gov/)
+Arkansas;Central;"Arkansas is a state located in the southern region of the United States, known for its natural beauty, outdoor recreation opportunities, and rich cultural heritage.";"Little Rock, Fort Smith, Fayetteville";[Arkansas Taxing Legislation](https://www.dfa.arkansas.gov/)
+California;Pacific;"California is a state located on the West Coast of the United States, known for its diverse culture, iconic cities, and beautiful beaches.";"Los Angeles, San Francisco, San Diego";[California Taxing Legislation](https://www.cdtfa.ca.gov/)
+Colorado;Mountain;"Colorado is a state located in the western region of the United States, known for its stunning Rocky Mountains, outdoor activities, and progressive culture.";"Denver, Colorado Springs, Aurora";[Colorado Taxing Legislation](https://tax.colorado.gov/)
+Connecticut;Eastern;"Connecticut is a state located in the New England region of the United States, known for its rich history, picturesque landscapes, and proximity to major cities.";"Bridgeport, New Haven, Hartford";[Connecticut Taxing Legislation](https://portal.ct.gov/drs)
+Delaware;Eastern;"Delaware is a state located in the Mid-Atlantic region of the United States, known for its tax-friendly policies, corporate presence, and beautiful coastline.";"Wilmington, Dover, Newark";[Delaware Taxing Legislation](https://revenue.delaware.gov/)
+Florida;Eastern;"Florida is a state located in the southeastern region of the United States, known for its sunny climate, beautiful beaches, and popular tourist destinations.";"Miami, Orlando, Tampa";[Florida Taxing Legislation](https://floridarevenue.com/)
+Georgia;Eastern;"Georgia is a state located in the southeastern region of the United States, known for its southern charm, rich history, and vibrant capital city of Atlanta.";"Atlanta, Augusta, Savannah";[Georgia Taxing Legislation](https://dor.georgia.gov/)
+Hawaii;Hawaii;"Hawaii is a state located in the Pacific Ocean, known for its tropical climate, stunning beaches, and unique Polynesian culture.";"Honolulu, Hilo, Kailua";[Hawaii Taxing Legislation](https://tax.hawaii.gov/)
+Idaho;Mountain;"Idaho is a state located in the northwestern region of the United States, known for its scenic landscapes, outdoor recreational opportunities, and friendly communities.";"Boise, Nampa, Meridian";[Idaho Taxing Legislation](https://tax.idaho.gov/)
+Illinois;Central;"Illinois is a state located in the Midwestern region of the United States, known for its vibrant city of Chicago, rich history, and diverse culture.";"Chicago, Aurora, Rockford";[Illinois Taxing Legislation](https://www
+State;Timezone;State Description;Major Cities;Tax Legislation
+Illinois;Central;"Illinois is a state located in the Midwestern region of the United States, known for its vibrant city of Chicago, rich history, and diverse culture.";"Chicago, Aurora, Rockford";[Illinois Taxing Legislation](https://www2.illinois.gov/rev/)
+Indiana;Eastern;"Indiana is a state located in the Midwestern region of the United States, known for its Indianapolis Motor Speedway, Hoosier hospitality, and thriving manufacturing industry.";"Indianapolis, Fort Wayne, Evansville";[Indiana Taxing Legislation](https://www.in.gov/dor/)
+Iowa;Central;"Iowa is a state located in the Midwestern region of the United States, known for its picturesque landscapes, agricultural heritage, and friendly communities.";"Des Moines, Cedar Rapids, Davenport";[Iowa Taxing Legislation](https://tax.iowa.gov/)
+Kansas;Central;"Kansas is a state located in the Midwestern region of the United States, known for its vast prairies, rich Native American history, and welcoming communities.";"Wichita, Overland Park, Kansas City";[Kansas Taxing Legislation](https://www.ksrevenue.org/)
+Kentucky;Eastern;"Kentucky is a state located in the southeastern region of the United States, known for its horse racing traditions, bourbon distilleries, and beautiful landscapes.";"Louisville, Lexington, Bowling Green";[Kentucky Taxing Legislation](https://revenue.ky.gov/)
+Louisiana;Central;"Louisiana is a state located in the southern region of the United States, known for its vibrant music, unique cuisine, and rich cultural heritage.";"New Orleans, Baton Rouge, Shreveport";[Louisiana Taxing Legislation](https://www.revenue.louisiana.gov/)
+Maine;Eastern;"Maine is a state located in the New England region of the United States, known for its stunning coastline, picturesque lighthouses, and delicious seafood.";"Portland, Lewiston, Bangor";[Maine Taxing Legislation](https://www.maine.gov/revenue/)
+Maryland;Eastern;"Maryland is a state located in the Mid-Atlantic region of the United States, known for its historical significance, Chesapeake Bay, and vibrant city of Baltimore.";"Baltimore, Columbia, Annapolis";[Maryland Taxing Legislation](https://taxes.marylandtaxes.gov/)
+Massachusetts;Eastern;"Massachusetts is a state located in the New England region of the United States, known for its rich history, prestigious universities, and vibrant city of Boston.";"Boston, Worcester, Springfield";[Massachusetts Taxing Legislation](https://www.mass.gov/dor/)
+Michigan;Eastern;"Michigan is a state located in the Great Lakes region of the United States, known for its automotive industry, stunning lakeshores, and vibrant city of Detroit.";"Detroit, Grand Rapids, Ann Arbor";[Michigan Taxing Legislation](https://www.michigan.gov/taxes/)
+Minnesota;Central;"Minnesota is a state located in the Midwestern region of the United States, known for its beautiful lakes, outdoor recreation opportunities, and thriving arts scene.";"Minneapolis, St. Paul, Rochester";[Minnesota Taxing Legislation](https://www.revenue.state.mn.us/)
+Mississippi;Central;"Mississippi is a state located in the southern region of the United States, known for its rich history, blues music, and southern hospitality.";"Jackson, Gulfport, Hattiesburg";[Mississippi Taxing Legislation](https://www.dor.ms.gov/)
+Mississippi;Central;"Mississippi is a state located in the southern region of the United States, known for its rich history, blues music, and southern hospitality.";"Jackson, Gulfport, Hattiesburg";[Mississippi Taxing Legislation](https://www.dor.ms.gov/)
+Missouri;Central;"Missouri is a state located in the Midwestern region of the United States, known for its iconic Gateway Arch, scenic Ozark Mountains, and vibrant city of St. Louis.";"Kansas City, St. Louis, Springfield";[Missouri Taxing Legislation](https://dor.mo.gov/)
+Montana;Mountain;"Montana is a state located in the western region of the United States, known for its breathtaking landscapes, outdoor adventures, and rich Native American heritage.";"Billings, Missoula, Great Falls";[Montana Taxing Legislation](https://mtrevenue.gov/)
+Nebraska;Central;"Nebraska is a state located in the Midwestern region of the United States, known for its vast prairies, friendly communities, and agricultural heritage.";"Omaha, Lincoln, Bellevue";[Nebraska Taxing Legislation](https://revenue.nebraska.gov/)
+Nevada;Pacific;"Nevada is a state located in the western region of the United States, known for its vibrant city of Las Vegas, stunning desert landscapes, and entertainment industry.";"Las Vegas, Reno, Henderson";[Nevada Taxing Legislation](https://tax.nv.gov/)
+New Hampshire;Eastern;"New Hampshire is a state located in the New England region of the United States, known for its natural beauty, no sales tax, and outdoor recreational opportunities.";"Manchester, Nashua, Concord";[New Hampshire Taxing Legislation](https://www.revenue.nh.gov/)
+New Jersey;Eastern;"New Jersey is a state located in the Mid-Atlantic region of the United States, known for its beautiful beaches, diverse culture, and proximity to major cities.";"Newark, Jersey City, Paterson";[New Jersey Taxing Legislation](https://www.state.nj.us/treasury/taxation/)
+New Mexico;Mountain;"New Mexico is a state located in the southwestern region of the United States, known for its rich Native American heritage, vibrant art scene, and stunning desert landscapes.";"Albuquerque, Las Cruces, Santa Fe";[New Mexico Taxing Legislation](https://www.tax.newmexico.gov/)
+New York;Eastern;"New York is a state located in the northeastern region of the United States, known for its iconic city of New York, diverse culture, and beautiful natural landscapes.";"New York City, Buffalo, Rochester";[New York Taxing Legislation](https://www.tax.ny.gov/)
+North Carolina;Eastern;"North Carolina is a state located in the southeastern region of the United States, known for its beautiful beaches, vibrant cities, and rich history.";"Charlotte, Raleigh, Greensboro";[North Carolina Taxing Legislation](https://www.ncdor.gov/)
+North Dakota;Central;"North Dakota is a state located in the Midwestern region of the United States, known for its wide-open spaces, friendly communities, and rich Native American heritage.";"Fargo, Bismarck, Grand Forks";[North Dakota Taxing Legislation](https://www.nd.gov/tax/)
+Ohio;Eastern;"Ohio is a state located in the Midwestern region of the United States, known for its industrial heritage, professional sports teams, and vibrant cities.";"Columbus, Cleveland, Cincinnati";[Ohio Taxing Legislation](https://tax.ohio.gov/)
+Oklahoma;Central;"Oklahoma is a state located in the
+Oklahoma;Central;"Oklahoma is a state located in the southwestern region of the United States, known for its rich Native American history, cowboy culture, and scenic landscapes.";"Oklahoma City, Tulsa, Norman";[Oklahoma Taxing Legislation](https://www.ok.gov/tax/)
+Oregon;Pacific;"Oregon is a state located in the Pacific Northwest region of the United States, known for its stunning coastline, diverse landscapes, and vibrant city of Portland.";"Portland, Eugene, Salem";[Oregon Taxing Legislation](https://www.oregon.gov/dor/)
+Pennsylvania;Eastern;"Pennsylvania is a state located in the northeastern and Mid-Atlantic regions of the United States, known for its historic sites, beautiful countryside, and diverse cities.";"Philadelphia, Pittsburgh, Allentown";[Pennsylvania Taxing Legislation](https://www.revenue.pa.gov/)
+Rhode Island;Eastern;"Rhode Island is a state located in the New England region of the United States, known for its charming coastal towns, rich history, and vibrant art scene.";"Providence, Warwick, Cranston";[Rhode Island Taxing Legislation](https://www.tax.ri.gov/)
+South Carolina;Eastern;"South Carolina is a state located in the southeastern region of the United States, known for its beautiful beaches, historic plantations, and southern cuisine.";"Columbia, Charleston, Greenville";[South Carolina Taxing Legislation](https://dor.sc.gov/)
+South Dakota;Central;"South Dakota is a state located in the Midwestern region of the United States, known for its stunning landscapes, Mount Rushmore, and Native American culture.";"Sioux Falls, Rapid City, Aberdeen";[South Dakota Taxing Legislation](https://dor.sd.gov/)
+Tennessee;Central;"Tennessee is a state located in the southeastern region of the United States, known for its vibrant music scene, historic landmarks, and beautiful landscapes.";"Nashville, Memphis, Knoxville";[Tennessee Taxing Legislation](https://www.tn.gov/revenue/)
+Texas;Central;"Texas is a state located in the southern region of the United States, known for its vast size, cowboy culture, and diverse cities.";"Houston, Dallas, Austin";[Texas Taxing Legislation](https://comptroller.texas.gov/taxes/)
+Utah;Mountain;"Utah is a state located in the western region of the United States, known for its stunning national parks, outdoor recreation opportunities, and unique geological formations.";"Salt Lake City, West Valley City, Provo";[Utah Taxing Legislation](https://tax.utah.gov/)
+Vermont;Eastern;"Vermont is a state located in the New England region of the United States, known for its picturesque landscapes, charming small towns, and outdoor recreational activities.";"Burlington, South Burlington, Rutland";[Vermont Taxing Legislation](https://tax.vermont.gov/)
+Virginia;Eastern;"Virginia is a state located in the southeastern and Mid-Atlantic regions of the United States, known for its historic landmarks, beautiful beaches, and vibrant cities.";"Virginia Beach, Norfolk, Richmond";[Virginia Taxing Legislation](https://www.tax.virginia.gov/)
+Washington;Pacific;"Washington is a state located in the Pacific Northwest region of the United States, known for its stunning natural beauty, vibrant city of Seattle, and thriving tech industry.";"Seattle, Spokane, Tacoma";[Washington Taxing Legislation](https://dor.wa.gov/)
+West Virginia;Eastern;"West Virginia is a state located in the Appalachian region of the United States, known for its scenic mountains, outdoor adventures, and rich coal mining history."
+West Virginia;Eastern;"West Virginia is a state located in the Appalachian region of the United States, known for its scenic mountains, outdoor adventures, and rich coal mining history.";"Charleston, Huntington, Morgantown";[West Virginia Taxing Legislation](https://tax.wv.gov/)
+Wisconsin;Central;"Wisconsin is a state located in the Midwestern region of the United States, known for its beautiful lakes, cheese production, and vibrant city of Milwaukee.";"Milwaukee, Madison, Green Bay";[Wisconsin Taxing Legislation](https://www.revenue.wi.gov/)
+Wyoming;Mountain;"Wyoming is a state located in the western region of the United States, known for its stunning national parks, vast wilderness, and cowboy culture.";"Cheyenne, Casper, Laramie";[Wyoming Taxing Legislation](https://revenue.wyo.gov/)
