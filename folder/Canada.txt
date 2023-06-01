@@ -112,10 +112,25 @@ Wyoming; 576,851; 21
 
 
 
+Name	Link
+FDA - Family Smoking Prevention and Tobacco Control Act	https://www.fda.gov/tobacco-products/rules-regulations-and-guidance/family-smoking-prevention-and-tobacco-control-act-overview
+Tax Foundation - State Excise Tax Rates on Cigarettes	https://taxfoundation.org/state-cigarette-tax-rates-2020/
+Public Health Law Center - U.S. E-Cigarette Regulations - 50 State Review	https://www.publichealthlawcenter.org/resources/us-e-cigarette-regulations-50-state-review
+National Conference of State Legislatures - Alternative Nicotine Products	https://www.ncsl.org/research/health/alternative-nicotine-products-e-cigarettes.aspx
+FDA - Marketing of IQOS Tobacco Heating System	https://www.fda.gov/news-events/press-announcements/fda-permits-sale-iqos-tobacco-heating-system-through-premarket-tobacco-product-application-pathway
+FDA - Authorization of IQOS with Reduced Exposure Information	https://www.fda.gov/tobacco-products/ctp-newsroom/fda-authorizes-marketing-iqos-tobacco-heating-system-reduced-exposure-information
+Tobacco Control Legal Consortium	http://publichealthlawcenter.org/programs/tobacco-control-legal-consortium
+Campaign for Tobacco-Free Kids	https://www.tobaccofreekids.org/
 
 
 
 
+
+
+FDA Authorizes Reduced Exposure Claim for IQOS 3 System Holder and Charger | FDA
+PMI Promotion of IQOS Using FDA MRTP Order - TobaccoTactics
+download (fda.gov)
+Heated tobacco product regulation under US law and the FCTC - PMC (nih.gov)
 
 
 
